@@ -1,2 +1,2 @@
 # Test
-First repository for testing
+I'm a product manager of Derivatives Market at Moscow Exchange.
